@@ -1,17 +1,19 @@
 ---
 layout: page
 title: About Me
-description: An optional about page for Scriptor Jekyll theme
-feature_image: images/sam.jpg
-tags: 
+description: Computer vision researcher — 3D reconstruction, robot perception, and bilingual AI.
+feature_image:
+tags:
 ---
 
-I am a Ph.D. candidate at Southern Illinois University Carbondale, where I work on various deep learning problems under the supervision of Dr. [Banafsheh Rekabdar](https://sites.google.com/site/banafsheh1rekabdar){:target="_blank"} . My research revolves around creating new algorithms for machine and deep learning and apply them in improving generative approaches for computer vision (images, videos) and natural language processing in Artificial Intelligence and Robotics Research Lab at [SIU](https://www.siu.edu){:target="_blank"}.  In terms of biological deep neural network applications, my most recent work, Biologically Inspired Sleep Algorithm for VAEs, has employed the notion of sleep from biology and apply an off-line unsupervised "sleep" stage to modify the parameters of a fully connected VAE.  Currently, I am working to extend this work to create a defense algorithm that uses a biologically inspired sleep phase in a VAE (Defense--VAE--Sleep) to purge adversarial perturbations from contaminated images. 
+Hi — I'm Sameerah. I teach cameras to understand the world.
 
+I hold a Ph.D. in Computer Science from [Southern Illinois University](https://www.siu.edu){:target="_blank"}, where my dissertation explored deep generative models across computer vision and natural language — teaching machines to imagine video and to write Arabic poetry, sometimes in the same week. That mix stuck: my favorite problems still live right where pixels turn into geometry, and geometry turns into meaning.
 
-I am originally from [Jordan](https://en.wikipedia.org/wiki/Jordan){:target="_blank"}. 
+These days I build systems that rebuild measurable 3D worlds from ordinary photographs and video, recognize and track objects by nothing more than their own surfaces, give robots eyes (and simulated hands), and describe what they see in more than one language — English *and* Arabic, because the world doesn't happen in only one.
 
- I had earned my bachelor's at [University of Jordan](http://ju.edu.jo){:target="_blank"} as a Computer Engineering major student . In  2015, I received by Masters degree in Computer Science from [Applied Science University](https://www.asu.edu.jo){:target="_blank"}. There, I worked under   [Dr. Nedhal Al-Saiyd](https://scholar.google.com/citations?user=ynb9e7AAAAAJ&hl=en){:target="_blank"} in problems related to digital signal and image processing. Recently,  I worked with [Umesh Timalsina](https://umesh-timalsina.github.io/){:target="_blank"}  under professor Wen chi Hou in databases and a novel [`multi-join`](https://github.com/multijoin-hub/){:target="_blank"} algorithm.
+You can see what I'm building on [GitHub](https://github.com/sameerahtalafha){:target="_blank"}, find my papers on [Google Scholar](https://scholar.google.com/citations?user=Vh-D2fsAAAAJ){:target="_blank"}, or read the articles on this site — I like writing pieces you can *watch*: interactive posts with live 3D models and demos baked right in.
 
-*Thank You for reading!*
+I'm originally from [Jordan](https://en.wikipedia.org/wiki/Jordan){:target="_blank"}. I earned my bachelor's in Computer Engineering at the [University of Jordan](http://ju.edu.jo){:target="_blank"} and my master's in Computer Science at [Applied Science University](https://www.asu.edu.jo){:target="_blank"} before crossing the ocean for the Ph.D.
 
+*Thanks for reading!*

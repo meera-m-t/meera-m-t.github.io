@@ -9,7 +9,7 @@
 lang: en-US
 
 # Site title
-title: "Meera-M-T"
+title: "Sameerah Talafha"
 
 # A description of your site for meta tag, search engine results.
 description: "Nothing in life is to be feared, it is only to be understood (Marie Curie) "
@@ -18,7 +18,7 @@ description: "Nothing in life is to be feared, it is only to be understood (Mari
 baseurl:
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "http://meera-m-t.github.io"
+url: "https://sameerahtalafha.github.io"
 
 # Favicon
 favicon: images/favicon.png
@@ -36,16 +36,14 @@ navigation:
 
 
 
-# The shortname for your Disqus site to enable comments.
-disqus: Meera-M-T-blog
 
 # Colors
 accent_color: '#2d72d9'
 
 # Site footer
-#footer:
-#  content: "&copy; Sameerah Talafha. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
-#  has_social: true
+footer:
+  content: "&copy; Sameerah Talafha. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  has_social: true
 
 
 # http://jekyllrb.com/docs/pagination/

@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Teaching
-description: An optional about page for Scriptor Jekyll theme
+description: Courses I taught at Southern Illinois University.
 feature_image:
 ---
 
-I am a Teaching Assistant (TA)  in [SIU](https://www.siu.edu){:target="_blank"} for these courses: 
+During my Ph.D. I was a Teaching Assistant at [SIU](https://www.siu.edu){:target="_blank"} for these courses: 
 
 #### Discrete Mathematics (CS-215)
 ###### Topics include:
